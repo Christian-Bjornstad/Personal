@@ -1,0 +1,10 @@
+{
+  "app": {
+    "request_timeout_ms": 20000,
+    "max_offers_per_search": 25
+  },
+  "discord": {
+    "username": "Restplass Travel Alerts"
+  }
+}
+

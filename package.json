@@ -1,0 +1,23 @@
+{
+  "name": "restplass-travel-alerts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Travel alert system driven by local Restplass OpenAPI specs.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "once": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}
+
