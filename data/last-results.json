@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T19:42:36.667Z",
+  "updatedAt": "2026-04-11T19:57:19.904Z",
   "searches": {
     "charter-greece-june-breakfast": {
       "searchId": "charter-greece-june-breakfast",
       "searchName": "Cheap Greece package holiday in June",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:94d919cc9814dacdd3b4f2f6": {
           "source": "charter",
@@ -23,7 +23,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/631154/181/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-16&list=charter&number_of_nights=7&offer_id=631154!Ke830Sil4KsjB0t7oGW2jw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:7d53d9502019e408c0ae74f8": {
@@ -41,7 +41,7 @@
           "rating": 9.2,
           "url": "https://www.restplass.no/hotel/452103/261/hotel?age=42-42&bedrooms=1&dep_code=GOT&departure_date=2026-06-02&list=charter&number_of_nights=7&offer_id=452103!zyiRHY1UCoxrvwfGdNTqlQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:ebc71506b28c5020458ec0f8": {
@@ -59,7 +59,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/554452/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-12&list=charter&number_of_nights=7&offer_id=554452!u706DyV8YYxZbZrpzT7giw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:2add92e8a7c1cf2f4a61ee19": {
@@ -77,7 +77,7 @@
           "rating": 7.6,
           "url": "https://www.restplass.no/hotel/461047/181/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-05&list=charter&number_of_nights=7&offer_id=461047!ED4DTIixMZXH3ERIa8fzcA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:26a367741b1b4852ba31f567": {
@@ -95,7 +95,7 @@
           "rating": 7.2,
           "url": "https://www.restplass.no/hotel/451174/261/hotel?age=42-42&bedrooms=1&dep_code=GOT&departure_date=2026-06-02&list=charter&number_of_nights=7&offer_id=451174!glsizqlX5xr67k9AiB1Lqw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:665c181bcfdc88aa5d040dc7": {
@@ -113,7 +113,7 @@
           "rating": 5.8,
           "url": "https://www.restplass.no/hotel/321311/181/hotel?age=42-42&bedrooms=1&dep_code=SVG&departure_date=2026-06-07&list=charter&number_of_nights=7&offer_id=321311!EnZrn3IZ9jMZD6yn0X7RLg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:4b994077b7e93683005ff8e8": {
@@ -131,7 +131,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/624769/261/hotel?age=42-42&bedrooms=1&dep_code=GOT&departure_date=2026-06-02&list=charter&number_of_nights=7&offer_id=624769!x9YJgGtrZtaS6xRgZ72e0g",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:0e73633a5849a9f5e84a188a": {
@@ -149,7 +149,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/166810/181/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-05&list=charter&number_of_nights=7&offer_id=166810!vOGVayyiY2ATteBBwWDabg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:5d41403bdc351a5bbf52803d": {
@@ -167,7 +167,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/1049861/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-12&list=charter&number_of_nights=7&offer_id=1049861!1XQXZRlLeWKjrguD5KSU0w",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:f41b045e5b2caa6e88804a02": {
@@ -185,7 +185,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/122751/181/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=7&offer_id=122751!5noqy5SdhDKvsQhjhAJpoA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -194,7 +194,7 @@
       "searchId": "charter-gdansk-city-trip",
       "searchName": "Short city trip to Gdansk",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:7525773886d876512cf53f6c": {
           "source": "charter",
@@ -211,7 +211,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/692803/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-29&list=charter&number_of_nights=3&offer_id=692803!hHk5JJrx4KehVywxjxIYDQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:a8df93ed0386633533337fe9": {
@@ -229,7 +229,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/319998/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-20&list=charter&number_of_nights=3&offer_id=319998!ofYZJ9Dryq83rJvsN43Olg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:baa0d9a8b9d84a3032dafa9d": {
@@ -247,7 +247,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/571964/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-29&list=charter&number_of_nights=3&offer_id=571964!Rv6AofEd8P9pKl8xMUWgkA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:6ac1fdc420f5bebd487c7686": {
@@ -265,7 +265,7 @@
           "rating": 9.6,
           "url": "https://www.restplass.no/hotel/940148/252/hotel?age=42-42&bedrooms=1&dep_code=SVG&departure_date=2026-09-28&list=charter&number_of_nights=3&offer_id=940148!n6EK5Qnwy5I9MSiO6mH47Q",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:40fdc8db2a966eb3aceae485": {
@@ -283,7 +283,7 @@
           "rating": 9.2,
           "url": "https://www.restplass.no/hotel/1131698/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-14&list=charter&number_of_nights=3&offer_id=1131698!8jFaARHZYMTj7qNkH4sKig",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:50a3ebfea32ced5b58089cff": {
@@ -301,7 +301,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/418878/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-13&list=charter&number_of_nights=3&offer_id=418878!UduPms5og6cFKK9Bql2Qkg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:bc51f6d994e522e301b318c7": {
@@ -319,7 +319,7 @@
           "rating": 9,
           "url": "https://www.restplass.no/hotel/571959/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-29&list=charter&number_of_nights=3&offer_id=571959!rRIjx0XdfxL6vyaVvkt0FA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:923e89a1b70ec268ad16e442": {
@@ -337,7 +337,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/478923/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-20&list=charter&number_of_nights=3&offer_id=478923!SxZxzbYJdjXNWft0amdhZg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:6050f8c199881eae26153023": {
@@ -355,7 +355,7 @@
           "rating": 9,
           "url": "https://www.restplass.no/hotel/321291/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-09-13&list=charter&number_of_nights=3&offer_id=321291!VWtnE7VNUxMf1BDq6cxCaw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:6632fe0ce1a9a3089dbca617": {
@@ -373,7 +373,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/571962/261/hotel?age=42-42&bedrooms=1&dep_code=GOT&departure_date=2026-09-07&list=charter&number_of_nights=3&offer_id=571962!DCn3DsjyDNOZFgaQzy8xQQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -382,7 +382,7 @@
       "searchId": "charter-family-turkey-all-inclusive",
       "searchName": "All inclusive family trip to Turkey",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:16dc5257f9612268fb8579d5": {
           "source": "charter",
@@ -399,7 +399,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/122316/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=122316!kUObPaa3eDRyPCID65V0Hg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:eb2d3e437f80b33299b56980": {
@@ -417,7 +417,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/224073/265/hotel?age=42-42-11-11&bedrooms=1&dep_code=SVG&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=224073!l0yNqUVm2l7ZnOyHyWnWwQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8fa5d0f7af3d5759dd0a609e": {
@@ -435,7 +435,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/328530/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=328530!EjxL9syPeuFhPoUehJQZyw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:2072c11b2714a189fa73305a": {
@@ -453,7 +453,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/426431/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=426431!RFEcotqW0XWjvVOw0CkcbA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:18f9b55b4666635fede242f8": {
@@ -471,7 +471,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/117024/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=117024!5bISKFMQQsrHfkKYuBUt5A",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:c0e7a8159b040e2932039cad": {
@@ -489,7 +489,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/622044/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=622044!tRgItm0gf8l31jpt13sfsw",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:85bd177b49bfd5f4c78373dc": {
@@ -507,7 +507,7 @@
           "rating": 8.6,
           "url": "https://www.restplass.no/hotel/124016/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=124016!DLVukiN5aaJSNGOT36z7RQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:96f84234b60f17b29c1acc32": {
@@ -525,7 +525,7 @@
           "rating": 9,
           "url": "https://www.restplass.no/hotel/328559/265/hotel?age=42-42-11-11&bedrooms=1&dep_code=SVG&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=328559!rCeIPR3W8llRLbKoNPpsSQ",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:cb38ac35765e3f079764832f": {
@@ -543,7 +543,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/615834/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=615834!Qor53Zy5HGGStyLtLzxxoA",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8aac777e54e665cb3c4314f9": {
@@ -561,7 +561,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/444175/261/hotel?age=42-42-11-11&bedrooms=1&dep_code=BGO&departure_date=2026-08-15&list=charter&number_of_nights=7&offer_id=444175!uyg56VySV8uGl7dMf9VLTg",
           "firstSeenAt": "2026-04-11T17:19:58.719Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -570,21 +570,21 @@
       "searchId": "flights-agp-june-direct",
       "searchName": "Direct flights to Malaga in June",
       "source": "flights",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {}
     },
     "flights-tfs-flexible-week": {
       "searchId": "flights-tfs-flexible-week",
       "searchName": "Flexible one-week Tenerife flights",
       "source": "flights",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {}
     },
     "charter-spain-2weeks-june": {
       "searchId": "charter-spain-2weeks-june",
       "searchName": "Solferie Spania 14 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:800b2665b6b8d1887edce67d": {
           "source": "charter",
@@ -601,7 +601,7 @@
           "rating": 9.2,
           "url": "https://www.restplass.no/hotel/941359/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=941359!7jJAsghsUykFdLFDABOpZQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:3d6507f1303d5a5307f4cf06": {
@@ -619,7 +619,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/660379/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=660379!6ypDIn4QxMBfADfn4tF6lA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:07a94f258aa092ffd5d8ff1e": {
@@ -637,7 +637,7 @@
           "rating": 7,
           "url": "https://www.restplass.no/hotel/448803/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-12&list=charter&number_of_nights=14&offer_id=448803!xUL74RybFsZS0GPIKiL2MA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:c163cd0a82356112f219ad47": {
@@ -655,7 +655,7 @@
           "rating": 5.6,
           "url": "https://www.restplass.no/hotel/465571/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=465571!B5rOfB8TzisLOO9YB8ueRg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:383440426b4f048e6eadcdf8": {
@@ -673,7 +673,7 @@
           "rating": 6.6,
           "url": "https://www.restplass.no/hotel/93770/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=93770!sq0yZOiS2FE8YtYQQi65Hw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:ca059dddb908a84309f3a2b7": {
@@ -691,7 +691,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/91289/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=91289!egVe7pezIihZVBmFW1wePg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8e18f37c59171c73e155bdd9": {
@@ -709,7 +709,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/781828/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=781828!4josRvigQ2gvIm0txipHTA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:b3725c41a3b7bcafc2e5bf46": {
@@ -727,7 +727,7 @@
           "rating": 6.6,
           "url": "https://www.restplass.no/hotel/456808/261/hotel?age=42-42&bedrooms=1&dep_code=SVG&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=456808!9YELBcv292gduT7YCrywkg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:5b80111141b5e676e7f0d822": {
@@ -745,7 +745,7 @@
           "rating": 6.6,
           "url": "https://www.restplass.no/hotel/153474/275/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=13&offer_id=153474!RDgbm1MMov8vq384xBwvgg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:9e77c7fdcddd6d3f5d4ad90d": {
@@ -763,7 +763,7 @@
           "rating": 7,
           "url": "https://www.restplass.no/hotel/319054/261/hotel?age=42-42&bedrooms=1&dep_code=SVG&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=319054!XRdHhUrP5xuV4ydR8MiOZw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -772,7 +772,7 @@
       "searchId": "charter-italy-2weeks-june",
       "searchName": "Solferie Italia 14 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:50a51df2cd17ad63ea640f90": {
           "source": "charter",
@@ -789,7 +789,7 @@
           "rating": 6.8,
           "url": "https://www.restplass.no/hotel/440834/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=440834!hyKQYmDw1B9t63S5P5wQZg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:ca05821a43dc5070ded47de6": {
@@ -807,7 +807,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/522213/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=522213!QCBwpXm0LvIgXxe8PENE4Q",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:fcb09d2eb990c58334a5f48e": {
@@ -825,7 +825,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/522658/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=522658!NlN3gPzlhqPQEfExOOAC3Q",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:16917bb432bdac1360a56cf1": {
@@ -843,7 +843,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/252183/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=252183!FwJkJcQJpiW4ZVJBCiFpxw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:4b359b3c6d2f75191e907f6b": {
@@ -861,7 +861,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/520415/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=520415!zaGyIDvXWx3tyxGkzcL33w",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:957f3c9d9695ec1ff7a82b0f": {
@@ -879,7 +879,7 @@
           "rating": 7.6,
           "url": "https://www.restplass.no/hotel/520403/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-14&list=charter&number_of_nights=14&offer_id=520403!M5FxiyCrEx70UL2GcAt7xg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:b79032104cbb41e8e4b41dfa": {
@@ -897,7 +897,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/328672/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=328672!KTYc1ZgFuk6D1aA0eid3hg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:b32fe11ba24afd2241d7d70a": {
@@ -915,7 +915,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/522636/275/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=522636!7u23T0mmRp0lm67odTp0xA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8347deca33481cf99ae8f337": {
@@ -933,7 +933,7 @@
           "rating": 7.2,
           "url": "https://www.restplass.no/hotel/472156/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-13&list=charter&number_of_nights=14&offer_id=472156!lYX2V13ILjkoBnyNB0hnFg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:e8fab90a78a0f6bb2b2181e0": {
@@ -951,7 +951,7 @@
           "rating": 7.4,
           "url": "https://www.restplass.no/hotel/522311/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-16&list=charter&number_of_nights=14&offer_id=522311!uIbxIxOMvBxRQyz0XmvKmw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -960,7 +960,7 @@
       "searchId": "charter-greece-2weeks-june",
       "searchName": "Solferie Hellas 14 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:2338a0abd651cea77f44328f": {
           "source": "charter",
@@ -977,7 +977,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/552596/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=552596!XiIFMYmM7MnuxP8QJVFBGQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:9110a26c2082477b69c79c0c": {
@@ -995,7 +995,7 @@
           "rating": 9.4,
           "url": "https://www.restplass.no/hotel/451213/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=451213!3QHOCoWrBRYlpdpBxFp7NA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8f789bf838fab4ea1d3abe19": {
@@ -1013,7 +1013,7 @@
           "rating": 7.2,
           "url": "https://www.restplass.no/hotel/599038/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=599038!OdMUTNobPrEeTzIzcWbN6w",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:a9ddfa4e01d7c57b25e44225": {
@@ -1031,7 +1031,7 @@
           "rating": 6.6,
           "url": "https://www.restplass.no/hotel/552649/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=552649!Eja79GHmn1jjYgso0HyXyw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:f2314e10f0ab3308325ed06c": {
@@ -1049,7 +1049,7 @@
           "rating": 7.6,
           "url": "https://www.restplass.no/hotel/947597/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=947597!lX5JjQVz32ohNPPsZfuRKg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:0d83fe5243725f2a10d1f1cd": {
@@ -1067,7 +1067,7 @@
           "rating": 9.4,
           "url": "https://www.restplass.no/hotel/946041/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=946041!sK3GzIDGBGtuj1M0u3y1yQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:a8a73380196b0c885a3c297f": {
@@ -1085,7 +1085,7 @@
           "rating": 7.6,
           "url": "https://www.restplass.no/hotel/441175/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=441175!8oUXy1xXJv2m44tEEg8X6A",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:b0f1943e998cc80149f5d55f": {
@@ -1103,7 +1103,7 @@
           "rating": 9.6,
           "url": "https://www.restplass.no/hotel/441439/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=441439!s3DtDmDNKXGaccDFb6OYtg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:48e426b224a63ad1c17c9ba2": {
@@ -1121,7 +1121,7 @@
           "rating": 8.4,
           "url": "https://www.restplass.no/hotel/464648/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=464648!Sc67HoaRRqpa7ZxFaMAVDg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:e80fef68a790e8f817d7ac1e": {
@@ -1139,7 +1139,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/681673/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=681673!TpyJmFxl7Bv01umx9Ey8Zg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
@@ -1148,7 +1148,7 @@
       "searchId": "charter-syden-2weeks-june",
       "searchName": "Solferie Syden (Hele) 14 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-11T19:42:36.667Z",
+      "lastRunAt": "2026-04-11T19:57:19.904Z",
       "offers": {
         "charter:2338a0abd651cea77f44328f": {
           "source": "charter",
@@ -1165,7 +1165,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/552596/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=552596!XiIFMYmM7MnuxP8QJVFBGQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:9110a26c2082477b69c79c0c": {
@@ -1183,7 +1183,7 @@
           "rating": 9.4,
           "url": "https://www.restplass.no/hotel/451213/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=451213!3QHOCoWrBRYlpdpBxFp7NA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:0f70889bdec82e583a6746da": {
@@ -1201,7 +1201,7 @@
           "rating": 8.8,
           "url": "https://www.restplass.no/hotel/619506/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=619506!tMaiRdma9URwKmPtGHc1xA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:73cc33fa829f47c44c70f06d": {
@@ -1219,7 +1219,7 @@
           "rating": 8.6,
           "url": "https://www.restplass.no/hotel/117005/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=117005!smBO9WoSoGfuB82WsuSHKQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:8f789bf838fab4ea1d3abe19": {
@@ -1237,7 +1237,7 @@
           "rating": 7.2,
           "url": "https://www.restplass.no/hotel/599038/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=599038!OdMUTNobPrEeTzIzcWbN6w",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:382935b22cf0d7b7bc0e6c5e": {
@@ -1255,7 +1255,7 @@
           "rating": 7.4,
           "url": "https://www.restplass.no/hotel/474511/252/hotel?age=42-42&bedrooms=1&dep_code=BGO&departure_date=2026-06-13&list=charter&number_of_nights=14&offer_id=474511!0GiiGU2gwZIyPVzGYAgiDA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:bb90dff64803b946df3386e4": {
@@ -1273,7 +1273,7 @@
           "rating": 5.6,
           "url": "https://www.restplass.no/hotel/108054/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=108054!7Bb48qMJsCoxILZtogKR7w",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:b137ab1ee28326d589d8e652": {
@@ -1291,7 +1291,7 @@
           "rating": 8.2,
           "url": "https://www.restplass.no/hotel/82969/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=82969!AJxZuzZw4EMP0PCHxrAyCg",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:382b90b5681427d4b2730c46": {
@@ -1309,7 +1309,7 @@
           "rating": 6.2,
           "url": "https://www.restplass.no/hotel/115286/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=115286!yv8JViFvL2vpnKF4baF7Mw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:ede5941e4e2a65c0ad9b4bdd": {
@@ -1327,7 +1327,7 @@
           "rating": 8,
           "url": "https://www.restplass.no/hotel/452836/252/hotel?age=42-42&bedrooms=1&dep_code=BGO&departure_date=2026-06-13&list=charter&number_of_nights=14&offer_id=452836!GrxyHdN2k5dBEC94qej1BA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:fcbe11babe02b94e56259a00": {
@@ -1345,7 +1345,7 @@
           "rating": 7.4,
           "url": "https://www.restplass.no/hotel/474589/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=474589!iFzyJuTkBJrQh3marhmqnA",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:a9ddfa4e01d7c57b25e44225": {
@@ -1363,7 +1363,7 @@
           "rating": 6.6,
           "url": "https://www.restplass.no/hotel/552649/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=552649!Eja79GHmn1jjYgso0HyXyw",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:800b2665b6b8d1887edce67d": {
@@ -1381,7 +1381,7 @@
           "rating": 9.2,
           "url": "https://www.restplass.no/hotel/941359/261/hotel?age=42-42&bedrooms=1&dep_code=TRF&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=941359!7jJAsghsUykFdLFDABOpZQ",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:4cb40838cd94a04122a6b39d": {
@@ -1399,7 +1399,7 @@
           "rating": 7.6,
           "url": "https://www.restplass.no/hotel/154010/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=154010!kJrx0tzrIS3OBuTB803K5w",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         },
         "charter:61a25fb0a5db592297f3536a": {
@@ -1417,7 +1417,7 @@
           "rating": 7.2,
           "url": "https://www.restplass.no/hotel/461663/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=461663!vjis5ebtc5fJKHlSDeU20Q",
           "firstSeenAt": "2026-04-11T19:32:13.307Z",
-          "lastSeenAt": "2026-04-11T19:42:36.667Z",
+          "lastSeenAt": "2026-04-11T19:57:19.904Z",
           "lastPriceChangeAt": null
         }
       }
