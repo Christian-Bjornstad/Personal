@@ -1,6 +1,20 @@
 import { NormalizedOffer } from "./normalized-offer";
 
-export interface StoredOfferSnapshot extends Omit<NormalizedOffer, "raw"> {
+export interface StoredOfferSnapshot {
+  source: "charter" | "flights";
+  searchId: string;
+  stableId: string;
+  title: string;
+  destination: string | null;
+  departureDate: string | null;
+  returnDate: string | null;
+  nights: number | null;
+  supplier: string | null;
+  totalPrice: number | null;
+  pricePerPerson: number | null;
+  rating: number | null;
+  guestRating: number | null;
+  url: string;
   firstSeenAt: string;
   lastSeenAt: string;
   lastPriceChangeAt: string | null;
