@@ -18,6 +18,10 @@ export interface CharterOfferRaw {
   hotel_image?: string;
   url?: string;
   origin_airport_code?: string;
+  temp_air_day?: number;
+  temp_water?: number;
+  distance_beach?: number;
+  distance_centre?: number;
 }
 
 export interface CharterSearchResponse {
