@@ -14,6 +14,11 @@ export interface StoredOfferSnapshot {
   pricePerPerson: number | null;
   rating: number | null;
   guestRating: number | null;
+  hotelImage: string | null;
+  tempAir: number | null;
+  tempWater: number | null;
+  distanceBeach: number | null;
+  distanceCentre: number | null;
   url: string;
   firstSeenAt: string;
   lastSeenAt: string;

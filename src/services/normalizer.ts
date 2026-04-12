@@ -70,6 +70,11 @@ export function normalizeCharterResponse(
       pricePerPerson: pickNumber(offer.price_per_pers),
       rating: pickNumber(offer.rating),
       guestRating: pickNumber(offer.guest_rating),
+      hotelImage: pickString(offer.hotel_image),
+      tempAir: pickNumber(offer.temp_air_day),
+      tempWater: pickNumber(offer.temp_water),
+      distanceBeach: pickNumber(offer.distance_beach),
+      distanceCentre: pickNumber(offer.distance_centre),
       url: offer.url,
       raw: offer
     }));
@@ -104,6 +109,11 @@ export function normalizeFlightsResponse(
         pricePerPerson: pickNumber(offer.total_price?.per_pax_amount),
         rating: null,
         guestRating: null,
+        hotelImage: null,
+        tempAir: null,
+        tempWater: null,
+        distanceBeach: null,
+        distanceCentre: null,
         url: offer.url,
         raw: offer
       };

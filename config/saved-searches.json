@@ -29,6 +29,11 @@
         "price_per_pers",
         "total_price",
         "supplier_name",
+        "hotel_image",
+        "temp_air_day",
+        "temp_water",
+        "distance_beach",
+        "distance_centre",
         "url"
       ]
     }
@@ -63,6 +68,11 @@
         "price_per_pers",
         "total_price",
         "supplier_name",
+        "hotel_image",
+        "temp_air_day",
+        "temp_water",
+        "distance_beach",
+        "distance_centre",
         "url"
       ]
     }
@@ -97,6 +107,11 @@
         "price_per_pers",
         "total_price",
         "supplier_name",
+        "hotel_image",
+        "temp_air_day",
+        "temp_water",
+        "distance_beach",
+        "distance_centre",
         "url"
       ]
     }
@@ -131,6 +146,11 @@
         "price_per_pers",
         "total_price",
         "supplier_name",
+        "hotel_image",
+        "temp_air_day",
+        "temp_water",
+        "distance_beach",
+        "distance_centre",
         "url"
       ]
     }

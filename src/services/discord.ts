@@ -1,11 +1,20 @@
 import { AlertEvent } from "./diff-engine";
 import { formatDateTime } from "../utils/dates";
 
+interface DiscordField {
+  name: string;
+  value: string;
+  inline?: boolean;
+}
+
 interface DiscordEmbed {
   title: string;
   url?: string;
   description?: string;
   color?: number;
+  fields?: DiscordField[];
+  image?: { url: string };
+  thumbnail?: { url: string };
 }
 
 interface DiscordWebhookPayload {
@@ -16,63 +25,105 @@ interface DiscordWebhookPayload {
 
 function chunk<T>(values: T[], size: number): T[][] {
   const result: T[][] = [];
-
   for (let index = 0; index < values.length; index += size) {
     result.push(values.slice(index, index + size));
   }
-
   return result;
 }
 
 function formatPrice(value: number | null): string {
-  if (value === null) {
-    return "n/a";
-  }
-
+  if (value === null) return "n/a";
   return `${new Intl.NumberFormat("nb-NO").format(value)} NOK`;
 }
 
 function embedForAlert(alert: AlertEvent): DiscordEmbed {
-  const lines = [
-    `Saved search: ${alert.search.name}`,
-    `Offer: ${alert.current.title}`,
-    `Destination: ${alert.current.destination ?? "n/a"}`,
-    `Total price: ${formatPrice(alert.current.totalPrice)}`,
-    `Price per person: ${formatPrice(alert.current.pricePerPerson)}`,
-    `Dates: ${formatDateTime(alert.current.departureDate)} -> ${formatDateTime(alert.current.returnDate)}`,
-    `Nights: ${alert.current.nights ?? "n/a"}`,
-    `Rating: ${alert.current.rating ? alert.current.rating + " ⭐" : "n/a"}`,
-    `Guest rating: ${alert.current.guestRating ?? "n/a"}`,
-    `Supplier: ${alert.current.supplier ?? "n/a"}`
+  const fields: DiscordField[] = [
+    {
+      name: "💰 Pris",
+      value: `**${formatPrice(alert.current.totalPrice)}**\n(${formatPrice(
+        alert.current.pricePerPerson
+      )} per pers)`,
+      inline: true
+    },
+    {
+      name: "📅 Datoer",
+      value: `${formatDateTime(alert.current.departureDate)}\n-> ${formatDateTime(
+        alert.current.returnDate
+      )}\n(${alert.current.nights} netter)`,
+      inline: true
+    },
+    {
+      name: "⭐ Vurdering",
+      value: `${alert.current.rating ? alert.current.rating + " ⭐" : "n/a"}\n(${
+        alert.current.guestRating ?? "Ingen"
+      }/10 hos gjester)`,
+      inline: true
+    }
   ];
 
-  if (alert.kind === "price_drop") {
-    lines.push(
-      `Price drop: -${formatPrice(alert.deltaNok ?? null)} (${(alert.deltaPercent ?? 0).toFixed(1)}%)`
-    );
+  const weatherParts: string[] = [];
+  if (alert.current.tempAir) weatherParts.push(`🌡️ Luft: ${alert.current.tempAir}°C`);
+  if (alert.current.tempWater) weatherParts.push(`🌊 Vann: ${alert.current.tempWater}°C`);
+
+  if (weatherParts.length > 0) {
+    fields.push({
+      name: "☀️ Vær (forventet)",
+      value: weatherParts.join("\n"),
+      inline: true
+    });
   }
 
-  if (alert.kind === "rating_increase") {
-    lines.push(`Rating increase: +${(alert.ratingDelta ?? 0).toFixed(1)}`);
+  const distanceParts: string[] = [];
+  if (alert.current.distanceBeach !== null) {
+    distanceParts.push(`🏖️ Strand: ${alert.current.distanceBeach}m`);
+  }
+  if (alert.current.distanceCentre !== null) {
+    distanceParts.push(`🏘️ Sentrum: ${alert.current.distanceCentre}m`);
+  }
+
+  if (distanceParts.length > 0) {
+    fields.push({
+      name: "📍 Beliggenhet",
+      value: distanceParts.join("\n"),
+      inline: true
+    });
+  }
+
+  fields.push({
+    name: "🏢 Leverandør",
+    value: alert.current.supplier ?? "n/a",
+    inline: true
+  });
+
+  if (alert.kind === "price_drop") {
+    fields.push({
+      name: "📉 Prisnedgang!",
+      value: `**-${formatPrice(alert.deltaNok ?? null)}** (${(alert.deltaPercent ?? 0).toFixed(1)}%)`,
+      inline: false
+    });
   }
 
   const titleByKind: Record<AlertEvent["kind"], string> = {
-    new_offer: "New travel deal",
-    price_drop: "Price drop detected",
-    rating_increase: "Offer quality improved"
+    new_offer: "✨ Nytt reisekupp funnet!",
+    price_drop: "🔥 Prisen har sunket!",
+    rating_increase: "📈 Bedre kvalitet tilgjengelig!"
   };
 
   const colorByKind: Record<AlertEvent["kind"], number> = {
-    new_offer: 0x3498db,
-    price_drop: 0x2ecc71,
-    rating_increase: 0xf1c40f
+    new_offer: 0x3498db, // Blue
+    price_drop: 0x2ecc71, // Green
+    rating_increase: 0xf1c40f // Yellow
   };
 
   return {
-    title: titleByKind[alert.kind],
+    title: `${titleByKind[alert.kind]}: ${alert.current.title}`,
     url: alert.current.url,
-    description: lines.join("\n"),
-    color: colorByKind[alert.kind]
+    description: `Destinasjon: **${alert.current.destination ?? "Ukjent"}**\nSøk: *${
+      alert.search.name
+    }*`,
+    color: colorByKind[alert.kind],
+    fields,
+    image: alert.current.hotelImage ? { url: alert.current.hotelImage } : undefined
   };
 }
 
