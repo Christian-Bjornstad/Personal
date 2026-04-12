@@ -75,6 +75,7 @@ function toSnapshot(offer: NormalizedOffer, previous: StoredOfferSnapshot | unde
     totalPrice: offer.totalPrice,
     pricePerPerson: offer.pricePerPerson,
     rating: offer.rating,
+    guestRating: offer.guestRating,
     url: offer.url,
     firstSeenAt: previous?.firstSeenAt ?? now,
     lastSeenAt: now,
@@ -160,11 +161,11 @@ export function diffOffers(params: {
       }
 
       if (
-        previous.rating !== null &&
-        offer.rating !== null &&
-        offer.rating > previous.rating
+        previous.guestRating !== null &&
+        offer.guestRating !== null &&
+        offer.guestRating > previous.guestRating
       ) {
-        const ratingDelta = offer.rating - previous.rating;
+        const ratingDelta = offer.guestRating - previous.guestRating;
         summary.ratingImprovements += 1;
 
         if (ratingDelta >= (search.notify_on.rating_increase ?? Number.POSITIVE_INFINITY)) {
