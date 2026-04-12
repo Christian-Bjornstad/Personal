@@ -69,6 +69,10 @@ export async function runOnce(projectRoot: string): Promise<RunSummary> {
   const runnerResult = await runner.run(enabledSearches);
   const now = nowIso();
 
+  for (const [searchId, errorMessage] of Object.entries(runnerResult.failures)) {
+    logger.warn(`Search failed for ${searchId}: ${errorMessage}`);
+  }
+
   if (Object.keys(runnerResult.offersBySearchId).length === 0) {
     throw new Error("All enabled searches failed. No results were collected.");
   }
@@ -97,10 +101,6 @@ export async function runOnce(projectRoot: string): Promise<RunSummary> {
 
   for (const [searchId, summary] of Object.entries(diffResult.summaries)) {
     logger.info(`Search summary for ${searchId}`, summary);
-  }
-
-  for (const [searchId, errorMessage] of Object.entries(runnerResult.failures)) {
-    logger.warn(`Search failed for ${searchId}: ${errorMessage}`);
   }
 
   return {

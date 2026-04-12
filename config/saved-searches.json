@@ -20,7 +20,6 @@
       "sort": "price_asc",
       "limit": 10,
       "fields": [
-        "rating",
         "hotel_name",
         "destination_name",
         "departure_date",
@@ -55,7 +54,6 @@
       "sort": "price_asc",
       "limit": 10,
       "fields": [
-        "rating",
         "hotel_name",
         "destination_name",
         "departure_date",
@@ -90,7 +88,6 @@
       "sort": "price_asc",
       "limit": 10,
       "fields": [
-        "rating",
         "hotel_name",
         "destination_name",
         "departure_date",
@@ -124,7 +121,6 @@
       "sort": "price_asc",
       "limit": 15,
       "fields": [
-        "rating",
         "country_name",
         "hotel_name",
         "destination_name",
