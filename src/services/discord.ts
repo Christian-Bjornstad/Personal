@@ -41,7 +41,8 @@ function embedForAlert(alert: AlertEvent): DiscordEmbed {
     `Price per person: ${formatPrice(alert.current.pricePerPerson)}`,
     `Dates: ${formatDateTime(alert.current.departureDate)} -> ${formatDateTime(alert.current.returnDate)}`,
     `Nights: ${alert.current.nights ?? "n/a"}`,
-    `Rating: ${alert.current.rating ?? "n/a"}`,
+    `Rating: ${alert.current.rating ? alert.current.rating + " ⭐" : "n/a"}`,
+    `Guest rating: ${alert.current.guestRating ?? "n/a"}`,
     `Supplier: ${alert.current.supplier ?? "n/a"}`
   ];
 
@@ -80,6 +81,23 @@ export class DiscordService {
     private readonly webhookUrl: string | undefined,
     private readonly username: string
   ) {}
+
+  async sendSummary(summary: { enabledSearches: number; succeededSearches: number }): Promise<void> {
+    if (!this.webhookUrl) {
+      return;
+    }
+
+    const payload: DiscordWebhookPayload = {
+      username: this.username,
+      content: `✅ Travel search completed. Checked ${summary.enabledSearches} searches. No new offers or price drops worth reporting right now.`
+    };
+
+    await fetch(this.webhookUrl, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    });
+  }
 
   async sendAlerts(alerts: AlertEvent[]): Promise<number> {
     if (alerts.length === 0 || !this.webhookUrl) {

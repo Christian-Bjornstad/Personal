@@ -80,14 +80,19 @@ export async function runOnce(projectRoot: string): Promise<RunSummary> {
     now
   });
 
-  if (diffResult.alerts.length > 0 && !process.env.DISCORD_WEBHOOK_URL) {
-    logger.warn("Alerts were generated, but DISCORD_WEBHOOK_URL is not set. Skipping Discord delivery.");
-  }
-
-  const deliveredAlertCount = await new DiscordService(
+  const discordService = new DiscordService(
     process.env.DISCORD_WEBHOOK_URL,
     defaults.discord.username
-  ).sendAlerts(diffResult.alerts);
+  );
+
+  if (diffResult.alerts.length === 0 && process.env.DISCORD_WEBHOOK_URL) {
+    await discordService.sendSummary({
+      enabledSearches: enabledSearches.length,
+      succeededSearches: Object.keys(runnerResult.offersBySearchId).length
+    });
+  }
+
+  const deliveredAlertCount = await discordService.sendAlerts(diffResult.alerts);
   await saveState(projectRoot, diffResult.nextState);
 
   for (const [searchId, summary] of Object.entries(diffResult.summaries)) {

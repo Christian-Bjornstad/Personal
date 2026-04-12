@@ -11,6 +11,7 @@ export interface NormalizedOffer {
   totalPrice: number | null;
   pricePerPerson: number | null;
   rating: number | null;
+  guestRating: number | null;
   url: string;
   raw: unknown;
 }

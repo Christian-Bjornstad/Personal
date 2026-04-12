@@ -3,7 +3,7 @@ name: Daily Travel Alerts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "30 5 * * *"
 
 permissions:
   contents: write
@@ -11,6 +11,8 @@ permissions:
 jobs:
   travel-alerts:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Check out repository

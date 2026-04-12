@@ -8,6 +8,7 @@ export interface CharterOfferRaw {
   departure_date?: string;
   return_date?: string;
   number_of_nights?: number;
+  rating?: number;
   guest_rating?: number;
   total_price?: number;
   price_per_pers?: number;

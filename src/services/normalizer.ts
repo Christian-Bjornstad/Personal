@@ -68,7 +68,8 @@ export function normalizeCharterResponse(
       supplier: pickString(offer.supplier_name),
       totalPrice: pickNumber(offer.total_price),
       pricePerPerson: pickNumber(offer.price_per_pers),
-      rating: pickNumber(offer.guest_rating),
+      rating: pickNumber(offer.rating),
+      guestRating: pickNumber(offer.guest_rating),
       url: offer.url,
       raw: offer
     }));
@@ -102,6 +103,7 @@ export function normalizeFlightsResponse(
         totalPrice: pickNumber(offer.total_price?.amount),
         pricePerPerson: pickNumber(offer.total_price?.per_pax_amount),
         rating: null,
+        guestRating: null,
         url: offer.url,
         raw: offer
       };
