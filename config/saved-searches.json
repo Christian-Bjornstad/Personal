@@ -1,7 +1,7 @@
 [
   {
     "id": "charter-spain-2weeks-june",
-    "name": "Solferie Spania 8-15 dager i juni",
+    "name": "Solferie Spania 10-15 dager i juni",
     "type": "charter",
     "enabled": true,
     "notify_on": {
@@ -15,7 +15,7 @@
       "adults": 2,
       "depart_date_min": "2026-06-08T00:00:00Z",
       "depart_date_max": "2026-06-12T23:59:00Z",
-      "days_min": 8,
+      "days_min": 10,
       "days_max": 15,
       "rating": 3,
       "guest_rating": 6.0,
@@ -42,7 +42,7 @@
   },
   {
     "id": "charter-italy-2weeks-june",
-    "name": "Solferie Italia 8-15 dager i juni",
+    "name": "Solferie Italia 10-15 dager i juni",
     "type": "charter",
     "enabled": true,
     "notify_on": {
@@ -56,7 +56,7 @@
       "adults": 2,
       "depart_date_min": "2026-06-08T00:00:00Z",
       "depart_date_max": "2026-06-12T23:59:00Z",
-      "days_min": 8,
+      "days_min": 10,
       "days_max": 15,
       "rating": 3,
       "guest_rating": 6.0,
@@ -83,7 +83,7 @@
   },
   {
     "id": "charter-greece-2weeks-june",
-    "name": "Solferie Hellas 8-15 dager i juni",
+    "name": "Solferie Hellas 10-15 dager i juni",
     "type": "charter",
     "enabled": true,
     "notify_on": {
@@ -97,7 +97,7 @@
       "adults": 2,
       "depart_date_min": "2026-06-08T00:00:00Z",
       "depart_date_max": "2026-06-12T23:59:00Z",
-      "days_min": 8,
+      "days_min": 10,
       "days_max": 15,
       "rating": 3,
       "guest_rating": 6.0,
@@ -124,7 +124,7 @@
   },
   {
     "id": "charter-syden-2weeks-june",
-    "name": "Solferie Syden (Hele) 8-15 dager i juni",
+    "name": "Solferie Syden (Hele) 10-15 dager i juni",
     "type": "charter",
     "enabled": true,
     "notify_on": {
@@ -137,7 +137,7 @@
       "adults": 2,
       "depart_date_min": "2026-06-08T00:00:00Z",
       "depart_date_max": "2026-06-12T23:59:00Z",
-      "days_min": 8,
+      "days_min": 10,
       "days_max": 15,
       "rating": 3,
       "guest_rating": 6.0,
