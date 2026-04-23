@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T17:22:20.205Z",
+  "updatedAt": "2026-04-23T07:13:09.281Z",
   "searches": {
     "charter-italy-2weeks-june": {
       "searchId": "charter-italy-2weeks-june",
       "searchName": "Billig solferie Italia fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:50a51df2cd17ad63ea640f90": {
           "source": "charter",
@@ -18,8 +18,8 @@
           "returnDate": "2026-06-25T20:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 12944,
-          "pricePerPerson": 6472,
+          "totalPrice": 13522,
+          "pricePerPerson": 6761,
           "rating": null,
           "guestRating": 6.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/04fe2cccf0249bae5462a07a08d54888e4dc6e8a-1000x667.jpg?h=500",
@@ -27,10 +27,10 @@
           "tempWater": 25,
           "distanceBeach": 50,
           "distanceCentre": 4500,
-          "url": "https://www.restplass.no/hotel/440834/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=440834!hyKQYmDw1B9t63S5P5wQZg",
+          "url": "https://www.restplass.no/hotel/440834/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=440834!yxKkSjyh0k9wA6wdytcPpA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:2ff9ae85d0ab31f3cd2378b1": {
           "source": "charter",
@@ -42,8 +42,8 @@
           "returnDate": "2026-06-25T20:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 14341,
-          "pricePerPerson": 7170,
+          "totalPrice": 14258,
+          "pricePerPerson": 7129,
           "rating": null,
           "guestRating": 7.6,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b2a81b79ad8491253cc3cf5233b30f7baf2e158f-1000x669.jpg?h=500",
@@ -53,8 +53,8 @@
           "distanceCentre": 1433,
           "url": "https://www.restplass.no/hotel/520403/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=520403!AkYKKACNd1tesisCEl7R5w",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:4b359b3c6d2f75191e907f6b": {
           "source": "charter",
@@ -66,8 +66,8 @@
           "returnDate": "2026-06-25T20:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 15368,
-          "pricePerPerson": 7684,
+          "totalPrice": 15935,
+          "pricePerPerson": 7967,
           "rating": null,
           "guestRating": 8.2,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/8cf82a6f0ea025a5446d4e4b8cd6991ff6f0908e-1000x667.jpg?h=500",
@@ -77,8 +77,8 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/520415/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=520415!zaGyIDvXWx3tyxGkzcL33w",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:ca05821a43dc5070ded47de6": {
           "source": "charter",
@@ -90,8 +90,8 @@
           "returnDate": "2026-06-23T20:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16170,
-          "pricePerPerson": 8085,
+          "totalPrice": 16088,
+          "pricePerPerson": 8044,
           "rating": null,
           "guestRating": 8.4,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/085de0068d706780b149f2d3fa27a90056ddd030-1000x667.jpg?h=500",
@@ -101,8 +101,8 @@
           "distanceCentre": 500,
           "url": "https://www.restplass.no/hotel/522213/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=522213!QCBwpXm0LvIgXxe8PENE4Q",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:fcb09d2eb990c58334a5f48e": {
           "source": "charter",
@@ -114,8 +114,8 @@
           "returnDate": "2026-06-23T20:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16408,
-          "pricePerPerson": 8204,
+          "totalPrice": 16325,
+          "pricePerPerson": 8162,
           "rating": null,
           "guestRating": 8.2,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/6f67b24fb2a8e5df06d880cb1f4e29bea20ec047-1000x667.jpg?h=500",
@@ -125,8 +125,8 @@
           "distanceCentre": 1500,
           "url": "https://www.restplass.no/hotel/522658/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=522658!NlN3gPzlhqPQEfExOOAC3Q",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:b79032104cbb41e8e4b41dfa": {
           "source": "charter",
@@ -138,8 +138,8 @@
           "returnDate": "2026-06-25T20:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16515,
-          "pricePerPerson": 8257,
+          "totalPrice": 16406,
+          "pricePerPerson": 8203,
           "rating": null,
           "guestRating": 8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/5a2de54d855903156fcbac1a3a3752b891a1a97c-1000x548.jpg?h=500",
@@ -149,8 +149,8 @@
           "distanceCentre": 3187,
           "url": "https://www.restplass.no/hotel/328672/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=328672!KTYc1ZgFuk6D1aA0eid3hg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:4bb1d68be28df1297f8d92b3": {
           "source": "charter",
@@ -162,8 +162,8 @@
           "returnDate": "2026-06-23T20:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16802,
-          "pricePerPerson": 8401,
+          "totalPrice": 16717,
+          "pricePerPerson": 8358,
           "rating": null,
           "guestRating": 7.2,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b45cd2d37a9d159801e2eed988c14bdf89c94343-1000x667.jpg?h=500",
@@ -173,8 +173,8 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/456114/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=456114!pv2f85U9VAZLSajmOnNItw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:8e3400ac57c18ed8f7f6cfd7": {
           "source": "charter",
@@ -186,8 +186,8 @@
           "returnDate": "2026-06-26T10:00:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 17571,
-          "pricePerPerson": 8785,
+          "totalPrice": 17482,
+          "pricePerPerson": 8741,
           "rating": null,
           "guestRating": 7.4,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/bbd9e3db4da33c8b76b1b590b72cdbd656bf5e62-1000x684.jpg?h=500",
@@ -197,32 +197,8 @@
           "distanceCentre": null,
           "url": "https://www.restplass.no/hotel/462211/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-12&list=charter&number_of_nights=14&offer_id=462211!CUy1AGI5x07SCd5d5se0MQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:954c38869b904ccf42a3fe32": {
-          "source": "charter",
-          "searchId": "charter-italy-2weeks-june",
-          "stableId": "charter:954c38869b904ccf42a3fe32",
-          "title": "Hotel Sovrana",
-          "destination": "Rimini",
-          "departureDate": "2026-06-11T11:55:00Z",
-          "returnDate": "2026-06-25T20:30:00Z",
-          "nights": 14,
-          "supplier": "Solfaktor",
-          "totalPrice": 19013,
-          "pricePerPerson": 9506,
-          "rating": null,
-          "guestRating": 8.8,
-          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/e3468108520cd2ecbd6b476d73b33d3819c02a2d-1000x667.jpg?h=500",
-          "tempAir": 25,
-          "tempWater": 25,
-          "distanceBeach": 100,
-          "distanceCentre": 100,
-          "url": "https://www.restplass.no/hotel/332453/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=332453!IXYwfPKRO8cxdmQkaNvubA",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:1513d716c8433b09fab50600": {
           "source": "charter",
@@ -234,8 +210,8 @@
           "returnDate": "2026-06-25T20:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 19104,
-          "pricePerPerson": 9552,
+          "totalPrice": 18646,
+          "pricePerPerson": 9323,
           "rating": null,
           "guestRating": 8.6,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b35ddd103047ce1ba0781e74fba3e84c7d374f94-1000x667.jpg?h=500",
@@ -245,7 +221,31 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/337108/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=337108!ropimJTlpmvxB0rFYA84MA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:543b8bdb219541154f439d56": {
+          "source": "charter",
+          "searchId": "charter-italy-2weeks-june",
+          "stableId": "charter:543b8bdb219541154f439d56",
+          "title": "San Giorgio Modica Hotel",
+          "destination": "Sicilia",
+          "departureDate": "2026-06-09T15:55:00Z",
+          "returnDate": "2026-06-23T20:35:00Z",
+          "nights": 14,
+          "supplier": "Solfaktor",
+          "totalPrice": 19387,
+          "pricePerPerson": 9693,
+          "rating": null,
+          "guestRating": 8.6,
+          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/6490c50a039cf46d14e7c6370777cb3c95602beb-1000x750.jpg?h=500",
+          "tempAir": 25,
+          "tempWater": 24,
+          "distanceBeach": null,
+          "distanceCentre": 400,
+          "url": "https://www.restplass.no/hotel/742820/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=742820!lJlTfXv8zjowXyQP4YFSvg",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         }
       }
@@ -254,7 +254,7 @@
       "searchId": "charter-greece-2weeks-june",
       "searchName": "Billig solferie Hellas fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:cdbfa55b36723740346c98a0": {
           "source": "charter",
@@ -277,7 +277,7 @@
           "distanceCentre": 200,
           "url": "https://www.restplass.no/hotel/876495/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=876495!XoRwyx8ek43737iuZ0dWBQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:c590c652f21233528e4b094d": {
@@ -301,7 +301,7 @@
           "distanceCentre": 440,
           "url": "https://www.restplass.no/hotel/771531/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=771531!mQdF29AExtiXXsy7M1u90w",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:a1b6a465ec34c3747d20ed3f": {
@@ -325,7 +325,7 @@
           "distanceCentre": 200,
           "url": "https://www.restplass.no/hotel/610486/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=610486!4o7jnLxVpxMU1MwMdVxRdQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:060ae53141dfdbe1196cc808": {
@@ -349,7 +349,7 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/271482/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=271482!qyCxSHISUU6MtP3ZDGdQ6g",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:56847401ae749b1656c3d715": {
@@ -373,7 +373,7 @@
           "distanceCentre": 250,
           "url": "https://www.restplass.no/hotel/774717/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=774717!NCzENdUynCzVAFOXxObsUA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:1e6993b3d147ac3520f69fa3": {
@@ -397,7 +397,7 @@
           "distanceCentre": 650,
           "url": "https://www.restplass.no/hotel/552496/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=552496!MxMW5h6WRSO8yxmJ6xouOQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:3ab7180a2d197aaecd49fac8": {
@@ -421,7 +421,7 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/269538/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=269538!aBqwCAPATQgcelWU37Yd3A",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:1a9590919d7394897ea60500": {
@@ -445,7 +445,7 @@
           "distanceCentre": 1550,
           "url": "https://www.restplass.no/hotel/388148/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=388148!7eyrt18gx4KOf7ne0TuaeA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:1d36ce2a7d318696655a0d50": {
@@ -469,7 +469,7 @@
           "distanceCentre": 275,
           "url": "https://www.restplass.no/hotel/767373/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=767373!cB5L07sZygBxcgleB2zQZA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:39732e3f3ab1eb6788a501ba": {
@@ -493,7 +493,7 @@
           "distanceCentre": 540,
           "url": "https://www.restplass.no/hotel/878562/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=15&offer_id=878562!QOMkDjhW1mWL5xd4yJ4H9Q",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         }
       }
@@ -502,7 +502,7 @@
       "searchId": "charter-albania-2weeks-june",
       "searchName": "Billig solferie Albania fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:29f112cc1826ee33922c0efb": {
           "source": "charter",
@@ -514,8 +514,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 12869,
-          "pricePerPerson": 6434,
+          "totalPrice": 12803,
+          "pricePerPerson": 6401,
           "rating": null,
           "guestRating": 8.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/59fd875d89d3fadc9ceadd18410d6e19a41bd297-1000x707.jpg?h=500",
@@ -525,19 +525,19 @@
           "distanceCentre": 2500,
           "url": "https://www.restplass.no/hotel/619506/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=619506!MKQjWhBbH2V9rFFxQfOlAw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
-        "charter:c386e6e0d3f1d1e0f61663e8": {
+        "charter:d23dd92ef84118efb5f8d3b0": {
           "source": "charter",
           "searchId": "charter-albania-2weeks-june",
-          "stableId": "charter:c386e6e0d3f1d1e0f61663e8",
+          "stableId": "charter:d23dd92ef84118efb5f8d3b0",
           "title": "Hotel Ble Ble",
           "destination": "Vlorë",
           "departureDate": "2026-06-09T06:40:00Z",
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
-          "supplier": "TripX",
+          "supplier": "Norwegian Holidays",
           "totalPrice": 14078,
           "pricePerPerson": 7039,
           "rating": null,
@@ -547,21 +547,21 @@
           "tempWater": 23,
           "distanceBeach": 500,
           "distanceCentre": 2000,
-          "url": "https://www.restplass.no/hotel/694463/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=694463!eE2n2wFM3OBMx5pUCiprYg",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "url": "https://www.restplass.no/hotel/694463/275/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=694463!fR2d3acaUJfZuQqiVHCQ2A",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
-        "charter:ae44c5bd0251711cb26a7bc0": {
+        "charter:a2f05017ee65c1f9d011a704": {
           "source": "charter",
           "searchId": "charter-albania-2weeks-june",
-          "stableId": "charter:ae44c5bd0251711cb26a7bc0",
+          "stableId": "charter:a2f05017ee65c1f9d011a704",
           "title": "AL Hotel",
           "destination": "Vlorë",
           "departureDate": "2026-06-09T06:40:00Z",
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
-          "supplier": "TripX",
+          "supplier": "Norwegian Holidays",
           "totalPrice": 14298,
           "pricePerPerson": 7149,
           "rating": null,
@@ -571,9 +571,9 @@
           "tempWater": 23,
           "distanceBeach": null,
           "distanceCentre": null,
-          "url": "https://www.restplass.no/hotel/1283171/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=1283171!C3XCyXk9Cf02dmHukZOQhQ",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "url": "https://www.restplass.no/hotel/1283171/275/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=1283171!geEGrJbFMyCxe0PRJcIkiA",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:5e49055584211b509c684667": {
@@ -597,7 +597,7 @@
           "distanceCentre": 2800,
           "url": "https://www.restplass.no/hotel/624485/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=624485!zdLuP3Yo1S1HM1DWtaiJZA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:d293e98f55aaafced0323942": {
@@ -610,8 +610,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 14819,
-          "pricePerPerson": 7409,
+          "totalPrice": 14744,
+          "pricePerPerson": 7372,
           "rating": null,
           "guestRating": 8.2,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/1883ce6f9e0b3566879b7dc533dcf9a5f1df90e0-1000x667.jpg?h=500",
@@ -621,8 +621,8 @@
           "distanceCentre": 3406,
           "url": "https://www.restplass.no/hotel/480590/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=480590!PfktKexbkEtFYKv9K5PPGw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:61bd1db942521745f6b3c014": {
           "source": "charter",
@@ -634,8 +634,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 15159,
-          "pricePerPerson": 7579,
+          "totalPrice": 15081,
+          "pricePerPerson": 7540,
           "rating": null,
           "guestRating": 9,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/5ca7a51f80baf02aeb7087fdc1c5317265bdedc1-1000x750.jpg?h=500",
@@ -645,8 +645,8 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/947503/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=947503!XaDbx300ROIZQYSrQQB6cg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:e54e35263d1eae0be8287cc6": {
           "source": "charter",
@@ -658,8 +658,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 15239,
-          "pricePerPerson": 7619,
+          "totalPrice": 15161,
+          "pricePerPerson": 7580,
           "rating": null,
           "guestRating": 8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/5d13397a1a63addef173fec023277eae1ba0ad8d-1000x750.jpg?h=500",
@@ -669,8 +669,8 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/439843/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=439843!iaHyaniyHv1lM5FjlVPCZg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:37a769cdb9a53db1e490f920": {
           "source": "charter",
@@ -693,7 +693,7 @@
           "distanceCentre": 10000,
           "url": "https://www.restplass.no/hotel/849737/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=849737!q6cywJFUhtZo1XDS5z4mBw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:9269bc3f1b1fae128d35760f": {
@@ -706,8 +706,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 15926,
-          "pricePerPerson": 7963,
+          "totalPrice": 15845,
+          "pricePerPerson": 7922,
           "rating": null,
           "guestRating": 9,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/6a5b61124f15a0b0faf945c5ba029de3abbdb0a6-1000x669.jpg?h=500",
@@ -717,8 +717,8 @@
           "distanceCentre": 3500,
           "url": "https://www.restplass.no/hotel/591979/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=591979!sRHMxYpwJZxgkemYq60Dvw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:00e930286c922167d8b40865": {
           "source": "charter",
@@ -730,8 +730,8 @@
           "returnDate": "2026-06-23T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16129,
-          "pricePerPerson": 8064,
+          "totalPrice": 16047,
+          "pricePerPerson": 8023,
           "rating": null,
           "guestRating": 9.4,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/ed54f5465dfd32db8a05e1ef1b094b05f4bae9a3-1024x683.jpg?h=500",
@@ -741,8 +741,8 @@
           "distanceCentre": 3000,
           "url": "https://www.restplass.no/hotel/644525/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=644525!IcwzIGTfiK3NxCV2Ex7VBg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         }
       }
     },
@@ -750,7 +750,7 @@
       "searchId": "charter-portugal-2weeks-june",
       "searchName": "Billig solferie Portugal fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:879ae30f2783fc98a550b15d": {
           "source": "charter",
@@ -762,8 +762,8 @@
           "returnDate": "2026-06-23T05:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 12896,
-          "pricePerPerson": 6448,
+          "totalPrice": 12830,
+          "pricePerPerson": 6415,
           "rating": null,
           "guestRating": 7.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/31197a910ab2d81579adfa999360e13529529737-1000x562.jpg?h=500",
@@ -773,8 +773,8 @@
           "distanceCentre": 1300,
           "url": "https://www.restplass.no/hotel/208340/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=208340!18kikvZuumjQYqMLdcTjHw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:5e97c9bef4bdae8bc74781e2": {
           "source": "charter",
@@ -786,8 +786,8 @@
           "returnDate": "2026-06-23T10:00:00Z",
           "nights": 14,
           "supplier": "Ticket",
-          "totalPrice": 14714,
-          "pricePerPerson": 7357,
+          "totalPrice": 14653,
+          "pricePerPerson": 7326,
           "rating": null,
           "guestRating": 8.6,
           "hotelImage": "https://i.travelapi.com/lodging/22000000/21490000/21483800/21483765/dbaef3d7_z.jpg",
@@ -797,8 +797,8 @@
           "distanceCentre": null,
           "url": "https://www.restplass.no/hotel/1039509/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=1039509!Eo6GSAMGPXHCIn2jGj5HUg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:70590866a3caf3e6eb73d73a": {
           "source": "charter",
@@ -810,8 +810,8 @@
           "returnDate": "2026-06-23T05:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 14825,
-          "pricePerPerson": 7412,
+          "totalPrice": 14750,
+          "pricePerPerson": 7375,
           "rating": null,
           "guestRating": 7.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/f20a2a75e74bcedb4fe64b6dd21a4d3c9693d05b-1806x1200.jpg?h=500",
@@ -821,8 +821,8 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/210716/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=210716!sekFpmkCqkTyuzaGDxhC7g",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:2072b0c577a0faff3629c701": {
           "source": "charter",
@@ -834,8 +834,8 @@
           "returnDate": "2026-06-23T05:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 16175,
-          "pricePerPerson": 8087,
+          "totalPrice": 16092,
+          "pricePerPerson": 8046,
           "rating": null,
           "guestRating": 7.6,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/fbc686bedde5e41c0976941bbee7f62da4358e20-500x333.jpg?h=500",
@@ -845,8 +845,8 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/449471/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=449471!IlDDyZiL11YrAL0fTEfFHA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:4e6d20f4e947220af80ba12b": {
           "source": "charter",
@@ -858,8 +858,8 @@
           "returnDate": "2026-06-23T05:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 17849,
-          "pricePerPerson": 8924,
+          "totalPrice": 17758,
+          "pricePerPerson": 8879,
           "rating": null,
           "guestRating": 7.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/f1cbe7e63f8ae31b4d4f74c3830dc072ca05fed1-1900x1200.jpg?h=500",
@@ -869,8 +869,56 @@
           "distanceCentre": 2300,
           "url": "https://www.restplass.no/hotel/445521/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=445521!4X43JqqiHAYjyDcMlHfx7A",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:15a66eb870d1da0a833b88d6": {
+          "source": "charter",
+          "searchId": "charter-portugal-2weeks-june",
+          "stableId": "charter:15a66eb870d1da0a833b88d6",
+          "title": "Colina da Lapa",
+          "destination": "Lagoa",
+          "departureDate": "2026-06-09T12:20:00Z",
+          "returnDate": "2026-06-23T05:55:00Z",
+          "nights": 14,
+          "supplier": "Solfaktor",
+          "totalPrice": 18259,
+          "pricePerPerson": 9129,
+          "rating": null,
+          "guestRating": 8.4,
+          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/a7b60071e898e36e74e2c4ef8ad839cc14ba2e6b-1000x666.jpg?h=500",
+          "tempAir": 26,
+          "tempWater": 19,
+          "distanceBeach": 2000,
+          "distanceCentre": 3500,
+          "url": "https://www.restplass.no/hotel/445632/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=445632!0hDPAyMFgcw8LDUntn5yyA",
+          "firstSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:9731e43ad43e398468e4c625": {
+          "source": "charter",
+          "searchId": "charter-portugal-2weeks-june",
+          "stableId": "charter:9731e43ad43e398468e4c625",
+          "title": "Hotel Golf Mar",
+          "destination": "Ericeira",
+          "departureDate": "2026-06-10T14:50:00Z",
+          "returnDate": "2026-06-24T18:30:00Z",
+          "nights": 14,
+          "supplier": "Solfaktor",
+          "totalPrice": 18271,
+          "pricePerPerson": 9135,
+          "rating": null,
+          "guestRating": 8.2,
+          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/c1027e0cce60464ab76cafbd7cbe239b5ccb84bc-1663x1108.jpg?h=500",
+          "tempAir": 25,
+          "tempWater": 19,
+          "distanceBeach": 1500,
+          "distanceCentre": 300,
+          "url": "https://www.restplass.no/hotel/870592/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=870592!2YqF6wUuw95OxXEXlQcUXw",
+          "firstSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:c9a615f5201cffadf299f169": {
           "source": "charter",
@@ -893,55 +941,7 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/449479/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=449479!3lhbo5WJURDuY3O0CAoRJg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:15a66eb870d1da0a833b88d6": {
-          "source": "charter",
-          "searchId": "charter-portugal-2weeks-june",
-          "stableId": "charter:15a66eb870d1da0a833b88d6",
-          "title": "Colina da Lapa",
-          "destination": "Lagoa",
-          "departureDate": "2026-06-09T12:20:00Z",
-          "returnDate": "2026-06-23T05:55:00Z",
-          "nights": 14,
-          "supplier": "Solfaktor",
-          "totalPrice": 18353,
-          "pricePerPerson": 9176,
-          "rating": null,
-          "guestRating": 8.4,
-          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/a7b60071e898e36e74e2c4ef8ad839cc14ba2e6b-1000x666.jpg?h=500",
-          "tempAir": 26,
-          "tempWater": 19,
-          "distanceBeach": 2000,
-          "distanceCentre": 3500,
-          "url": "https://www.restplass.no/hotel/445632/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=445632!0hDPAyMFgcw8LDUntn5yyA",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:9731e43ad43e398468e4c625": {
-          "source": "charter",
-          "searchId": "charter-portugal-2weeks-june",
-          "stableId": "charter:9731e43ad43e398468e4c625",
-          "title": "Hotel Golf Mar",
-          "destination": "Ericeira",
-          "departureDate": "2026-06-10T14:50:00Z",
-          "returnDate": "2026-06-24T18:30:00Z",
-          "nights": 14,
-          "supplier": "Solfaktor",
-          "totalPrice": 18364,
-          "pricePerPerson": 9182,
-          "rating": null,
-          "guestRating": 8.2,
-          "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/c1027e0cce60464ab76cafbd7cbe239b5ccb84bc-1663x1108.jpg?h=500",
-          "tempAir": 25,
-          "tempWater": 19,
-          "distanceBeach": 1500,
-          "distanceCentre": 300,
-          "url": "https://www.restplass.no/hotel/870592/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=870592!2YqF6wUuw95OxXEXlQcUXw",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:e0cad27a213ce29258c30f9b": {
@@ -954,8 +954,8 @@
           "returnDate": "2026-06-25T10:00:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 18418,
-          "pricePerPerson": 9209,
+          "totalPrice": 18324,
+          "pricePerPerson": 9162,
           "rating": null,
           "guestRating": 8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/9f3c8f93d6a9dc4819bfd55cc2ed42565521db8f-1000x667.jpg?h=500",
@@ -965,8 +965,8 @@
           "distanceCentre": 1500,
           "url": "https://www.restplass.no/hotel/321623/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=321623!u0q6qNn9Vd0k4JqVBJ0O2Q",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:213baab43d2a0897e732df7d": {
           "source": "charter",
@@ -978,8 +978,8 @@
           "returnDate": "2026-06-23T05:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 19390,
-          "pricePerPerson": 9695,
+          "totalPrice": 19291,
+          "pricePerPerson": 9645,
           "rating": null,
           "guestRating": 7,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/fd5635234b84a0ef17b77505e661091164a96a04-1000x667.jpg?h=500",
@@ -989,8 +989,8 @@
           "distanceCentre": null,
           "url": "https://www.restplass.no/hotel/471823/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=471823!L5CG0Dx7Pe9uXa3oymgBTA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         }
       }
     },
@@ -998,7 +998,7 @@
       "searchId": "charter-malta-2weeks-june",
       "searchName": "Billig solferie Malta fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:b098fe9f813f1be39ffdb7bc": {
           "source": "charter",
@@ -1021,7 +1021,7 @@
           "distanceCentre": 4000,
           "url": "https://www.restplass.no/hotel/603090/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=603090!k3DtI3rlqMN6yD6SYQmYDg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:3e4eb9ce63e4a3d7ee5918f6": {
@@ -1034,8 +1034,8 @@
           "returnDate": "2026-06-24T19:45:00Z",
           "nights": 15,
           "supplier": "Ticket",
-          "totalPrice": 20075,
-          "pricePerPerson": 10037,
+          "totalPrice": 19969,
+          "pricePerPerson": 9984,
           "rating": null,
           "guestRating": 8.6,
           "hotelImage": "http://photos.hotelbeds.com/giata/original/02/020116/020116a_hb_a_008.jpg",
@@ -1045,32 +1045,8 @@
           "distanceCentre": 500,
           "url": "https://www.restplass.no/hotel/449650/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=449650!z3yXJ8ueYJ1wRApUZyVy4w",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:38f2a50ac64e7b72ffcf53b4": {
-          "source": "charter",
-          "searchId": "charter-malta-2weeks-june",
-          "stableId": "charter:38f2a50ac64e7b72ffcf53b4",
-          "title": "Maritim Antonine Hotel & Spa",
-          "destination": "Mellieħa",
-          "departureDate": "2026-06-09T16:15:00Z",
-          "returnDate": "2026-06-24T19:45:00Z",
-          "nights": 15,
-          "supplier": "Ticket",
-          "totalPrice": 23139,
-          "pricePerPerson": 11569,
-          "rating": null,
-          "guestRating": 8.8,
-          "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=10643059",
-          "tempAir": 28,
-          "tempWater": 24,
-          "distanceBeach": 1250,
-          "distanceCentre": 4000,
-          "url": "https://www.restplass.no/hotel/449582/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=449582!4q6InK6xFTfGPT9NXAvk7w",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:8dfa0eb78a1f319941742130": {
           "source": "charter",
@@ -1093,7 +1069,7 @@
           "distanceCentre": 200,
           "url": "https://www.restplass.no/hotel/899052/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=899052!ByZ9jKaOjkD6cP4s3rZ0jA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:13a32c4a4dbfbcb7f055432a": {
@@ -1106,8 +1082,8 @@
           "returnDate": "2026-06-24T19:45:00Z",
           "nights": 15,
           "supplier": "Ticket",
-          "totalPrice": 24588,
-          "pricePerPerson": 12294,
+          "totalPrice": 24425,
+          "pricePerPerson": 12212,
           "rating": null,
           "guestRating": 8.6,
           "hotelImage": "http://photos.hotelbeds.com/giata/original/57/575642/575642a_hb_ba_001.jpg",
@@ -1117,8 +1093,8 @@
           "distanceCentre": 405,
           "url": "https://www.restplass.no/hotel/580734/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=580734!FdxT3Tls5dtoUZBBJL0Llw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:4f3e9c945ddccb7b43f37d8b": {
           "source": "charter",
@@ -1141,7 +1117,7 @@
           "distanceCentre": 100,
           "url": "https://www.restplass.no/hotel/312570/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=312570!E9Az2tX2yffaCXkXulVnyQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:9eaad4186b8612c2b1c3b4df": {
@@ -1165,7 +1141,7 @@
           "distanceCentre": 20,
           "url": "https://www.restplass.no/hotel/449629/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=449629!npDJ2FNo4jhyiTlGVLyPbQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:432ca6e6285c387d9a1f6ba5": {
@@ -1178,8 +1154,8 @@
           "returnDate": "2026-06-24T19:45:00Z",
           "nights": 15,
           "supplier": "Ticket",
-          "totalPrice": 26231,
-          "pricePerPerson": 13115,
+          "totalPrice": 26242,
+          "pricePerPerson": 13121,
           "rating": null,
           "guestRating": 8,
           "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=62223437",
@@ -1189,8 +1165,32 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/312565/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=312565!QzxySmKB7sJzxQscTOnMTw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:38f2a50ac64e7b72ffcf53b4": {
+          "source": "charter",
+          "searchId": "charter-malta-2weeks-june",
+          "stableId": "charter:38f2a50ac64e7b72ffcf53b4",
+          "title": "Maritim Antonine Hotel & Spa",
+          "destination": "Mellieħa",
+          "departureDate": "2026-06-09T16:15:00Z",
+          "returnDate": "2026-06-24T19:45:00Z",
+          "nights": 15,
+          "supplier": "Ticket",
+          "totalPrice": 27779,
+          "pricePerPerson": 13889,
+          "rating": null,
+          "guestRating": 8.8,
+          "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=10643059",
+          "tempAir": 28,
+          "tempWater": 24,
+          "distanceBeach": 1250,
+          "distanceCentre": 4000,
+          "url": "https://www.restplass.no/hotel/449582/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=449582!fwmjefL1g7yzyNo7lyfXxg",
+          "firstSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:863f87c041520e8b7af36726": {
           "source": "charter",
@@ -1202,8 +1202,8 @@
           "returnDate": "2026-06-24T19:45:00Z",
           "nights": 15,
           "supplier": "Ticket",
-          "totalPrice": 27503,
-          "pricePerPerson": 13751,
+          "totalPrice": 27844,
+          "pricePerPerson": 13922,
           "rating": null,
           "guestRating": 8.4,
           "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=24964151",
@@ -1213,31 +1213,31 @@
           "distanceCentre": 800,
           "url": "https://www.restplass.no/hotel/321167/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=321167!BzcO1sNxjaP6NxCTBI8GFg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
-        "charter:1e7142c443e482d10945dbb7": {
+        "charter:c8fd7fa6f599edde44e0dd5b": {
           "source": "charter",
           "searchId": "charter-malta-2weeks-june",
-          "stableId": "charter:1e7142c443e482d10945dbb7",
-          "title": "Harbour Lights Seafront Holiday Apartments - St Paul's Bay - By GetawaysMalta",
-          "destination": "St. Paul's Bay",
+          "stableId": "charter:c8fd7fa6f599edde44e0dd5b",
+          "title": "Hotel 115 The Strand",
+          "destination": "Sliema",
           "departureDate": "2026-06-09T16:15:00Z",
           "returnDate": "2026-06-24T19:45:00Z",
           "nights": 15,
           "supplier": "Ticket",
-          "totalPrice": 28446,
-          "pricePerPerson": 14223,
+          "totalPrice": 28670,
+          "pricePerPerson": 14335,
           "rating": null,
-          "guestRating": 9.4,
-          "hotelImage": "https://i.travelapi.com/lodging/11000000/10110000/10108000/10107906/80d707fa_z.jpg",
+          "guestRating": 8.2,
+          "hotelImage": "http://photos.hotelbeds.com/giata/original/05/052904/052904a_hb_a_082.JPG",
           "tempAir": 28,
-          "tempWater": 21,
-          "distanceBeach": null,
-          "distanceCentre": null,
-          "url": "https://www.restplass.no/hotel/449754/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=449754!Vy5FEfkpF4vIyt9rnmuQ2Q",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "tempWater": 24,
+          "distanceBeach": 3000,
+          "distanceCentre": 500,
+          "url": "https://www.restplass.no/hotel/444514/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=15&offer_id=444514!xoqT4SJWXhcNGg86Ra4vpQ",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         }
       }
@@ -1246,30 +1246,30 @@
       "searchId": "charter-croatia-2weeks-june",
       "searchName": "Billig solferie Kroatia fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
-        "charter:c7cc7cd392226781435cbb06": {
+        "charter:a0e1202dd75da822916453e3": {
           "source": "charter",
           "searchId": "charter-croatia-2weeks-june",
-          "stableId": "charter:c7cc7cd392226781435cbb06",
+          "stableId": "charter:a0e1202dd75da822916453e3",
           "title": "Waterman Svpetrvs Resort",
           "destination": "Supetar",
           "departureDate": "2026-06-10T08:30:00Z",
-          "returnDate": "2026-06-22T09:40:00Z",
+          "returnDate": "2026-06-22T20:05:00Z",
           "nights": 12,
           "supplier": "Ticket",
-          "totalPrice": 15988,
-          "pricePerPerson": 7994,
+          "totalPrice": 16147,
+          "pricePerPerson": 8073,
           "rating": null,
           "guestRating": 8.6,
-          "hotelImage": "http://photos.hotelbeds.com/giata/original/06/063980/063980a_hb_a_002.jpg",
+          "hotelImage": "https://i.travelapi.com/lodging/2000000/1880000/1878300/1878233/f606546b_z.jpg",
           "tempAir": 26,
           "tempWater": 23,
           "distanceBeach": 200,
           "distanceCentre": 1000,
-          "url": "https://www.restplass.no/hotel/322201/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=322201!xAXWzOR63WbM8FnhlOSUZA",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "url": "https://www.restplass.no/hotel/322201/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=322201!YOakOBIWMt3xD1zd4vPWEg",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:dbf6835b14e824ffea65e902": {
@@ -1282,8 +1282,8 @@
           "returnDate": "2026-06-22T09:40:00Z",
           "nights": 12,
           "supplier": "Ticket",
-          "totalPrice": 17805,
-          "pricePerPerson": 8902,
+          "totalPrice": 17969,
+          "pricePerPerson": 8984,
           "rating": null,
           "guestRating": 8.8,
           "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=10490581",
@@ -1293,8 +1293,8 @@
           "distanceCentre": 6000,
           "url": "https://www.restplass.no/hotel/444719/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=444719!62EPdHIEKOAtqCXZBFW8pw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:c4107acbb6970281306f6248": {
           "source": "charter",
@@ -1306,8 +1306,8 @@
           "returnDate": "2026-06-22T20:05:00Z",
           "nights": 12,
           "supplier": "Ticket",
-          "totalPrice": 17945,
-          "pricePerPerson": 8972,
+          "totalPrice": 18103,
+          "pricePerPerson": 9051,
           "rating": null,
           "guestRating": 9.6,
           "hotelImage": "https://i.travelapi.com/lodging/4000000/3410000/3402400/3402397/e6d46cea_z.jpg",
@@ -1317,8 +1317,8 @@
           "distanceCentre": 10000,
           "url": "https://www.restplass.no/hotel/549166/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=549166!6QSjny6PZSXP0SfRBJUjBQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:ebacb8066b9b06db7ae3b32a": {
           "source": "charter",
@@ -1330,8 +1330,8 @@
           "returnDate": "2026-06-22T09:40:00Z",
           "nights": 12,
           "supplier": "Ticket",
-          "totalPrice": 18923,
-          "pricePerPerson": 9461,
+          "totalPrice": 19103,
+          "pricePerPerson": 9551,
           "rating": null,
           "guestRating": 8.8,
           "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=39935350",
@@ -1341,8 +1341,8 @@
           "distanceCentre": 12500,
           "url": "https://www.restplass.no/hotel/250267/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=250267!KzJTNycHI3XPetyjWdYaFQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:b1a5b1c2222ea123e7dbdfef": {
           "source": "charter",
@@ -1354,8 +1354,8 @@
           "returnDate": "2026-06-22T10:30:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 19555,
-          "pricePerPerson": 9777,
+          "totalPrice": 19456,
+          "pricePerPerson": 9728,
           "rating": null,
           "guestRating": 9.4,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/b050d3dbbb077b5ff2781d563b0764485c1f4c40-2000x1333.jpg?h=500",
@@ -1365,8 +1365,8 @@
           "distanceCentre": 1300,
           "url": "https://www.restplass.no/hotel/624425/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-08&list=charter&number_of_nights=14&offer_id=624425!Lv78eyI2MJYauLtWxKC5xg",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:7878466a09e11980d9b82a4c": {
           "source": "charter",
@@ -1378,8 +1378,8 @@
           "returnDate": "2026-06-23T19:55:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 20000,
-          "pricePerPerson": 10000,
+          "totalPrice": 19898,
+          "pricePerPerson": 9949,
           "rating": null,
           "guestRating": 8.8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/82f80abb4d225c4c9855b498e15d8e307419f0db-750x1000.jpg?h=500",
@@ -1389,8 +1389,8 @@
           "distanceCentre": 200,
           "url": "https://www.restplass.no/hotel/455209/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=455209!wnKDzXXqqXS32Lxfy1UO1A",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:90a1c9e83f9b9b5b0de34f77": {
           "source": "charter",
@@ -1402,8 +1402,8 @@
           "returnDate": "2026-06-25T10:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 20093,
-          "pricePerPerson": 10046,
+          "totalPrice": 20268,
+          "pricePerPerson": 10134,
           "rating": null,
           "guestRating": 9.4,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/dc57248406a7ecedae74847e1efcbdbb4b4c1251-1000x664.jpg?h=500",
@@ -1413,56 +1413,8 @@
           "distanceCentre": 250,
           "url": "https://www.restplass.no/hotel/784183/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-11&list=charter&number_of_nights=14&offer_id=784183!QPJvwUHInyQo7LBkc9Kqnw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:2b0ba8a14df2d9156a79150b": {
-          "source": "charter",
-          "searchId": "charter-croatia-2weeks-june",
-          "stableId": "charter:2b0ba8a14df2d9156a79150b",
-          "title": "Hotel Biokovo",
-          "destination": "Makarska",
-          "departureDate": "2026-06-10T08:30:00Z",
-          "returnDate": "2026-06-22T09:40:00Z",
-          "nights": 12,
-          "supplier": "Ticket",
-          "totalPrice": 20638,
-          "pricePerPerson": 10319,
-          "rating": null,
-          "guestRating": 9,
-          "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=39746139",
-          "tempAir": 26,
-          "tempWater": 24,
-          "distanceBeach": 305,
-          "distanceCentre": 300,
-          "url": "https://www.restplass.no/hotel/123322/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=123322!aYpBmpTlO9FiYxv0eg6Luw",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:b1d9d99dd18e59f8f2c449ba": {
-          "source": "charter",
-          "searchId": "charter-croatia-2weeks-june",
-          "stableId": "charter:b1d9d99dd18e59f8f2c449ba",
-          "title": "Hotel Pastura d.o.o.",
-          "destination": "Brač",
-          "departureDate": "2026-06-10T08:30:00Z",
-          "returnDate": "2026-06-22T20:05:00Z",
-          "nights": 12,
-          "supplier": "Ticket",
-          "totalPrice": 20661,
-          "pricePerPerson": 10330,
-          "rating": null,
-          "guestRating": 9,
-          "hotelImage": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=140623.jpg",
-          "tempAir": 26,
-          "tempWater": 23,
-          "distanceBeach": 155,
-          "distanceCentre": 300,
-          "url": "https://www.restplass.no/hotel/123337/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=123337!sQFHso7yvflJEOikRCLjEA",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:fc218b1626990074d3aa0bfa": {
           "source": "charter",
@@ -1474,8 +1426,8 @@
           "returnDate": "2026-06-23T10:50:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 20768,
-          "pricePerPerson": 10384,
+          "totalPrice": 20662,
+          "pricePerPerson": 10331,
           "rating": null,
           "guestRating": 9,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/764078853cdf26ffc3df0cdf7838c538e639c871-1000x667.jpg?h=500",
@@ -1485,7 +1437,55 @@
           "distanceCentre": 700,
           "url": "https://www.restplass.no/hotel/296126/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-09&list=charter&number_of_nights=14&offer_id=296126!um54K58E71izj9IbIoNkFQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:2b0ba8a14df2d9156a79150b": {
+          "source": "charter",
+          "searchId": "charter-croatia-2weeks-june",
+          "stableId": "charter:2b0ba8a14df2d9156a79150b",
+          "title": "Hotel Biokovo",
+          "destination": "Makarska",
+          "departureDate": "2026-06-10T08:30:00Z",
+          "returnDate": "2026-06-22T09:40:00Z",
+          "nights": 12,
+          "supplier": "Ticket",
+          "totalPrice": 20783,
+          "pricePerPerson": 10391,
+          "rating": null,
+          "guestRating": 9,
+          "hotelImage": "http://tkimages.axisdata.net/ImageConverter.php?size=print&height=600&hotel=AHRSPUELI6&filename=AHRSPUELI6_1071610.jpg",
+          "tempAir": 26,
+          "tempWater": 24,
+          "distanceBeach": 305,
+          "distanceCentre": 300,
+          "url": "https://www.restplass.no/hotel/123322/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=123322!aYpBmpTlO9FiYxv0eg6Luw",
+          "firstSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:e6fac83c3bfa74b520be24c4": {
+          "source": "charter",
+          "searchId": "charter-croatia-2weeks-june",
+          "stableId": "charter:e6fac83c3bfa74b520be24c4",
+          "title": "Hotel Pastura d.o.o.",
+          "destination": "Brač",
+          "departureDate": "2026-06-10T08:30:00Z",
+          "returnDate": "2026-06-22T09:40:00Z",
+          "nights": 12,
+          "supplier": "Ticket",
+          "totalPrice": 20831,
+          "pricePerPerson": 10415,
+          "rating": null,
+          "guestRating": 9,
+          "hotelImage": "https://hotelimages.sunhotels.net/HotelInfo/hotelImageFull.aspx?id=10781071",
+          "tempAir": 26,
+          "tempWater": 23,
+          "distanceBeach": 155,
+          "distanceCentre": 300,
+          "url": "https://www.restplass.no/hotel/123337/252/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=12&offer_id=123337!lyVqtIyFZ6REArXbbxtoKw",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         }
       }
@@ -1494,7 +1494,7 @@
       "searchId": "charter-bulgaria-2weeks-june",
       "searchName": "Billig solferie Bulgaria fra OSL minst 12 dager i juni",
       "source": "charter",
-      "lastRunAt": "2026-04-22T17:22:20.205Z",
+      "lastRunAt": "2026-04-23T07:13:09.281Z",
       "offers": {
         "charter:43f91e3eb8c21e4c484e72d5": {
           "source": "charter",
@@ -1517,7 +1517,7 @@
           "distanceCentre": 2500,
           "url": "https://www.restplass.no/hotel/322228/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=322228!P3aPwdsAR7w7W8z3dIU6XQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:4371a6c8a3436712c97f0597": {
@@ -1530,8 +1530,8 @@
           "returnDate": "2026-06-24T23:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 12575,
-          "pricePerPerson": 6287,
+          "totalPrice": 12511,
+          "pricePerPerson": 6255,
           "rating": null,
           "guestRating": 7.6,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/33026aab1cbc485f906eae2f29f11036b8f7111b-4256x2832.jpg?h=500",
@@ -1541,8 +1541,8 @@
           "distanceCentre": 2788,
           "url": "https://www.restplass.no/hotel/89818/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=89818!Niqtcy0CNRXyME8PshJ9Mw",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:9a7558f297291f27691ab472": {
           "source": "charter",
@@ -1565,7 +1565,7 @@
           "distanceCentre": 1,
           "url": "https://www.restplass.no/hotel/451057/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=451057!9XitWQ3AaQoo9Usl2bx6mA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:18945d157122ba3dafa75c7a": {
@@ -1589,7 +1589,7 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/98350/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=98350!0yUP27x1jwna01DIzBtcHA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:e472ef90109606ba3953b68f": {
@@ -1613,7 +1613,7 @@
           "distanceCentre": 1470,
           "url": "https://www.restplass.no/hotel/452308/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=452308!5oX8G3kSAsG6tzjuHgrPjQ",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:3050ba8925de33879f304736": {
@@ -1626,8 +1626,8 @@
           "returnDate": "2026-06-24T23:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 13174,
-          "pricePerPerson": 6587,
+          "totalPrice": 13107,
+          "pricePerPerson": 6553,
           "rating": null,
           "guestRating": 8.6,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/1430db9016ea342dfe719eed05798f92b431cdef-1200x803.jpg?h=500",
@@ -1637,32 +1637,8 @@
           "distanceCentre": 1000,
           "url": "https://www.restplass.no/hotel/449554/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=449554!SSH2NsTd0UFQ5Qoq0HSCFA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
-        },
-        "charter:ff65edde42bbd480a10c3b80": {
-          "source": "charter",
-          "searchId": "charter-bulgaria-2weeks-june",
-          "stableId": "charter:ff65edde42bbd480a10c3b80",
-          "title": "Aparthotel Cote D'Azure",
-          "destination": "Sunny Beach",
-          "departureDate": "2026-06-10T18:35:00Z",
-          "returnDate": "2026-06-24T23:35:00Z",
-          "nights": 14,
-          "supplier": "Norwegian Holidays",
-          "totalPrice": 13238,
-          "pricePerPerson": 6619,
-          "rating": null,
-          "guestRating": 8.4,
-          "hotelImage": "https://tripx-images.imgix.net/TSPRO/hotelimages/1822223b46314386ac0b1c6712eba249.jpg",
-          "tempAir": 26,
-          "tempWater": 23,
-          "distanceBeach": 1000,
-          "distanceCentre": 950,
-          "url": "https://www.restplass.no/hotel/851831/275/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=851831!kevQBtHpnWV8nY5sAKrvrw",
-          "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         },
         "charter:9d87d0b0178d9f4880181ab0": {
           "source": "charter",
@@ -1674,8 +1650,8 @@
           "returnDate": "2026-06-24T23:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 13297,
-          "pricePerPerson": 6648,
+          "totalPrice": 13229,
+          "pricePerPerson": 6614,
           "rating": null,
           "guestRating": 9.2,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/7cfe0aaf51e1066f277617a1ccc3e8f779223b4c-1000x662.jpg?h=500",
@@ -1685,7 +1661,31 @@
           "distanceCentre": 800,
           "url": "https://www.restplass.no/hotel/451663/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=451663!OnjqIoBH7K5w0741ppdyow",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
+        },
+        "charter:1f1932d9f572c42c1418ceb9": {
+          "source": "charter",
+          "searchId": "charter-bulgaria-2weeks-june",
+          "stableId": "charter:1f1932d9f572c42c1418ceb9",
+          "title": "Aparthotel Cote D'Azure",
+          "destination": "Sunny Beach",
+          "departureDate": "2026-06-10T18:35:00Z",
+          "returnDate": "2026-06-24T23:35:00Z",
+          "nights": 14,
+          "supplier": "TripX",
+          "totalPrice": 13238,
+          "pricePerPerson": 6619,
+          "rating": null,
+          "guestRating": 8.4,
+          "hotelImage": "https://tripx-images.imgix.net/TSPRO/hotelimages/1822223b46314386ac0b1c6712eba249.jpg",
+          "tempAir": 26,
+          "tempWater": 23,
+          "distanceBeach": 1000,
+          "distanceCentre": 950,
+          "url": "https://www.restplass.no/hotel/851831/271/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=851831!vRARCe0yi066xLLMkSZ62w",
+          "firstSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:865352055bc2476230ff3ef0": {
@@ -1709,7 +1709,7 @@
           "distanceCentre": 350,
           "url": "https://www.restplass.no/hotel/451952/265/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=451952!JDyyCFPxI0RJGc0NIlRkAA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
           "lastPriceChangeAt": null
         },
         "charter:dfff333a8d2265586ca6df39": {
@@ -1722,8 +1722,8 @@
           "returnDate": "2026-06-24T23:35:00Z",
           "nights": 14,
           "supplier": "Solfaktor",
-          "totalPrice": 13528,
-          "pricePerPerson": 6764,
+          "totalPrice": 13459,
+          "pricePerPerson": 6729,
           "rating": null,
           "guestRating": 8,
           "hotelImage": "https://cdn.sanity.io/images/9buzw47c/solfaktor-prod/f920b66cfd819e3deb541b1a99da875d43b14a1f-1280x853.jpg?h=500",
@@ -1733,8 +1733,8 @@
           "distanceCentre": 2000,
           "url": "https://www.restplass.no/hotel/222440/261/hotel?age=42-42&bedrooms=1&dep_code=OSL&departure_date=2026-06-10&list=charter&number_of_nights=14&offer_id=222440!vE5N9TIZ9peoNOoMFjgFUA",
           "firstSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastSeenAt": "2026-04-22T17:22:20.205Z",
-          "lastPriceChangeAt": null
+          "lastSeenAt": "2026-04-23T07:13:09.281Z",
+          "lastPriceChangeAt": "2026-04-23T07:13:09.281Z"
         }
       }
     }
