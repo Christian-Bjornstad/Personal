@@ -36,14 +36,23 @@ function formatPrice(value: number | null): string {
   return `${new Intl.NumberFormat("nb-NO").format(value)} NOK`;
 }
 
-function isValidUrl(url: string | undefined | null): boolean {
-  if (!url) return false;
+function getValidatedUrl(url: string | undefined | null): string | null {
+  if (!url) return null;
   try {
     const parsed = new URL(url);
-    return parsed.protocol === "http:" || parsed.protocol === "https:";
+    if (parsed.protocol === "http:" || parsed.protocol === "https:") {
+      return parsed.href;
+    }
+    return null;
   } catch {
-    return false;
+    return null;
   }
+}
+
+function cleanText(text: string | null | undefined, defaultValue: string): string {
+  if (!text) return defaultValue;
+  const trimmed = text.trim();
+  return trimmed.length > 0 ? trimmed : defaultValue;
 }
 
 function embedForAlert(alert: AlertEvent): DiscordEmbed {
@@ -101,7 +110,7 @@ function embedForAlert(alert: AlertEvent): DiscordEmbed {
 
   fields.push({
     name: "🏢 Leverandør",
-    value: alert.current.supplier ?? "n/a",
+    value: cleanText(alert.current.supplier, "n/a"),
     inline: true
   });
 
@@ -126,24 +135,27 @@ function embedForAlert(alert: AlertEvent): DiscordEmbed {
   };
 
   const embed: DiscordEmbed = {
-    title: `${titleByKind[alert.kind]}: ${alert.current.title}`.slice(0, 256),
-    description: `Destinasjon: **${alert.current.destination ?? "Ukjent"}**\nSøk: *${
-      alert.search.name
-    }*`.slice(0, 2048),
+    title: cleanText(`${titleByKind[alert.kind]}: ${alert.current.title}`, "Reisekupp").slice(0, 256),
+    description: cleanText(
+      `Destinasjon: **${alert.current.destination ?? "Ukjent"}**\nSøk: *${alert.search.name}*`,
+      "Ingen beskrivelse"
+    ).slice(0, 2048),
     color: colorByKind[alert.kind],
     fields: fields.map((f) => ({
-      name: f.name.slice(0, 256),
-      value: f.value.slice(0, 1024),
+      name: cleanText(f.name, "Info").slice(0, 256),
+      value: cleanText(f.value, "n/a").slice(0, 1024),
       inline: f.inline
     }))
   };
 
-  if (isValidUrl(alert.current.url)) {
-    embed.url = alert.current.url;
+  const validatedUrl = getValidatedUrl(alert.current.url);
+  if (validatedUrl) {
+    embed.url = validatedUrl;
   }
 
-  if (isValidUrl(alert.current.hotelImage)) {
-    embed.image = { url: alert.current.hotelImage! };
+  const validatedImageUrl = getValidatedUrl(alert.current.hotelImage);
+  if (validatedImageUrl) {
+    embed.image = { url: validatedImageUrl };
   }
 
   return embed;
